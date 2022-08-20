@@ -1,0 +1,44 @@
+... connected
+args of system:
+['D:/Smart_Ladle v14/SmartLadle_Data/Resources/SmartLadle/smart-ladle.exe', '/k', '22004730', '1', 'False', '-1']
+Parsing arguments: 
+Preparing machine learning algorithm...
+Machine learning model loaded...
+Begin previous heat processing...
+Grabbing prev heat data...
+... starting SQL query
+... SQL query complete
+... starting second SQL query
+... second SQL query complete
+... extracted heat_no and predicted start time
+... extracted sequence count
+... extracted EAF data
+... extracted LMF data
+... extracted caster data
+... extracted throughput
+... extracted liquidus
+... extracted previous heat deviation
+... calculated time intervals
+... compiled list data
+... calculated midpoint time
+... extracted temperature limits
+Completed extracting prev heat data
+Extracting caster temperature data...
+... done
+... extracted data
+... data mapped and normalized
+Generating plot...
+... done
+Saving plot...
+... done
+... generated predictions and plots
+Calculating impact factors...
+... done
+... generated impacts
+... prepared CSV inputs
+... prepared CSV outputs
+... prepared CSV impacts
+... opening CSV file for writing at ./SmartLadle_Data/Resources/SmartLadle/output.csv
+.. CSV writing complete
+Completed previous heat processing
+Press Enter to close the smart-ladle.exe window: 

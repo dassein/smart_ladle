@@ -1,0 +1,21 @@
+temp_mid MAE =  1.600732719053353
+temp_mid RMSE =  2.0753453846596908
+temp_mid min =  -9.704651137754809
+temp_mid max =  9.751153488665295
+
+
+temp_mid MAE =  3.11121362203431
+temp_mid RMSE =  4.026880334481144
+temp_mid min =  -11.070546974425724
+temp_mid max =  15.887350188943856
+
+
+temp_mid MAE =  2.6031636850161837
+temp_mid RMSE =  3.474396813571564
+temp_mid min =  -13.3306783026228
+temp_mid max =  16.835500646324817
+
+[42007270, 32019370, 22006480, 22017330, 42016070, 42001860, 22012130]
+[32021030, 32018740, 12023740]
+[8278, 3386, 13999, 9247, 28405, 23930, 9849, 19946, 18660, 9533, 9769, 11615, 8947, 8959, 10044, 17805, 13751, 11493, 11983, 10455, 12388, 13797, 9097, 7236]
+['heat_no', 'ladle_no', 'location_code', 'reline_flag', 'replace_flag', 'time_interval_LMF2CAST', 'temp_LMF_end', 'time_interval_steel_1', 'time_interval_preheat_1', 'time_interval_no_steel_1', 'time_interval_steel_2', 'time_interval_preheat_2', 'time_interval_no_steel_2', 'time_interval_steel_3', 'time_interval_preheat_3', 'time_interval_no_steel_3', 'time_interval_steel', 'throughput', 'time_interval_EAF2LMF', 'time_interval_LMF', 'temp_EAF', 'temp_LMF_start', 'temp_tundish_start', 'temp_liquidus', 'deviation']
