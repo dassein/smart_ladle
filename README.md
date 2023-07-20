@@ -1,6 +1,6 @@
 # smart ladle
 
-## Issue
+## Problem
 Since the ability to quantify and respond to the variables that affect steel casting temperature is crucial for achieving consistent casting quality and maximizing productivity.
 
 We hope to develop an machine learning model using real-time and historic process data to predict future casting temperature.
